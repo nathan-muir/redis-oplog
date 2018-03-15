@@ -16,6 +16,8 @@ Npm.depends({
     'deep-extend': '0.5.0',
     'object-sizeof': '1.2.0',
     'lodash.clonedeep': '4.5.0',
+    'lodash.get': '4.4.2',
+    'lodash.unset': '4.5.2',
 });
 
 Package.onUse(function(api) {
