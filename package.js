@@ -27,6 +27,7 @@ Package.onUse(function(api) {
         'minimongo',
         'mongo',
         'random',
+        'diff-sequence',
     ]);
 
     api.mainModule('redis-oplog.js', 'server');
