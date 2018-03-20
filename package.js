@@ -27,6 +27,7 @@ Package.onUse(function(api) {
         'minimongo',
         'mongo',
         'random',
+        'ddp-server',
         'diff-sequence',
     ]);
 
